@@ -1,0 +1,8 @@
+name: NickPE
+version: 1.0.0
+api: 3.0.0
+main: InspectorGadget\NickPE\Loader
+author: InspectorGadget
+commands:
+  nick:
+    description: "Command for Nick"
